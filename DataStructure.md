@@ -16,3 +16,7 @@
 
 * [242 Valid Anagram](FrequencyCount/ValidAnagram.md)
 * [49. Group Anagrams](FrequencyCount/GroupAnagram.md)
+
+## Priority Queue
+
+* [347. Top K Frequent Elements](PriorityQueue/TopKFrequentElements.md)
