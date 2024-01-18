@@ -24,3 +24,7 @@
 ## Left Right
 
 * [238. Product of Array Except Self](LeftRight/ProductofArrayExceptSelf.md)
+
+## Set
+
+* [36. Valid Sudoku](Set/ValidSudoku.md)
