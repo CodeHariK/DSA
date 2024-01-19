@@ -28,6 +28,7 @@
 ## Set
 
 * [36. Valid Sudoku](Set/ValidSudoku.md)
+* [128. Longest Consecutive Sequence](Set/LongestConsecutiveSequence.md)
 
 ## Dynamic Programming
 
