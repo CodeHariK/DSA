@@ -32,3 +32,7 @@
 ## Dynamic Programming
 
 * [70. Climbing Stairs](DynamicProgramming/ClimbingStairs.md)
+
+## Tree
+
+* [226. Invert Binary Tree](Tree/InvertBinaryTree.md)
