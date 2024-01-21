@@ -33,6 +33,7 @@
 ## Dynamic Programming
 
 * [70. Climbing Stairs](DynamicProgramming/ClimbingStairs.md)
+* [198. House Robber](DynamicProgramming/HouseRobber.md)
 
 ## Tree
 
@@ -41,3 +42,7 @@
 ## Grid
 
 * [931. Minimum Falling Path Sum](Grid/MinimumFallingPathSum.md)
+
+## Ascii
+
+* [125. Valid Palindrome](Ascii/ValidPalindrome.md)
