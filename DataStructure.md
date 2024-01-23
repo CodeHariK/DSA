@@ -11,6 +11,7 @@
 ## Window Shrink
 
 * [167 Two Sum2](WindowShrink/TwoSum2.md)
+* [15. Three Sum](WindowShrink/ThreeSum.md)
 
 ## Frequency Count
 
