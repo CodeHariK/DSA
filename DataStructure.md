@@ -26,6 +26,7 @@
 ## Left Right
 
 * [238. Product of Array Except Self](LeftRight/ProductofArrayExceptSelf.md)
+* [42. Trapping Rain Water](LeftRight/TrappingRainWater.md)
 
 ## Set
 
