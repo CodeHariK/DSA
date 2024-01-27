@@ -7,6 +7,7 @@
 ## HashMap
 
 * [1 Two Sum](HashMap/TwoSum.md)
+* [3. Longest Substring Without Repeating Characters](HashMap/LongestSubstringWithoutRepeatingCharacters.md)
 
 ## Window Shrink
 
