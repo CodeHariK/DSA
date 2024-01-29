@@ -58,3 +58,4 @@
 ## Sliding Window
 
 * [424. Longest Repeating Character Replacement](SlidingWindow/LongestRepeatingCharacterReplacement.md)
+* [567. Permutation in String](SlidingWindow/PermutationinString.md)
