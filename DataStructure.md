@@ -9,6 +9,10 @@
 * [1 Two Sum](HashMap/TwoSum.md)
 * [3. Longest Substring Without Repeating Characters](HashMap/LongestSubstringWithoutRepeatingCharacters.md)
 
+## Stack
+
+* [20. Valid Parentheses](Stack/ValidParenthesis.md)
+
 ## Window Shrink
 
 * [167 Two Sum2](WindowShrink/TwoSum2.md)
