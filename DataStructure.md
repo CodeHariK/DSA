@@ -12,6 +12,7 @@
 ## Stack
 
 * [20. Valid Parentheses](Stack/ValidParenthesis.md)
+* [155. Min Stack](Stack/MinStack.md)
 
 ## Window Shrink
 
