@@ -13,6 +13,7 @@
 
 * [20. Valid Parentheses](Stack/ValidParenthesis.md)
 * [155. Min Stack](Stack/MinStack.md)
+* [150. Evaluate Reverse Polish Notation](Stack/EvaluateReversePolishNotation.md)
 
 ## Window Shrink
 
