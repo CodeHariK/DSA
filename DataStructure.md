@@ -16,6 +16,7 @@
 * [150. Evaluate Reverse Polish Notation](Stack/EvaluateReversePolishNotation.md)
 * [739. Daily Temperatures](Stack/DailyTemperatures.md)
 * [853. Car Fleet](Stack/CarFleet.md)
+* [84. Largest Rectangle in Histogram](Stack/LargestRectangleinHistogram.md)
 
 ## Window Shrink
 
@@ -72,6 +73,7 @@
 
 * [206. Reverse Linked List](LinkedList/ReverseLinkedList)
 * [146. LRU Cache](LinkedList/LRUCache.md)
+* [21. Merge Two Sorted Lists](LinkedList/MergeTwoSortedLists.md)
 
 ## Recursion
 
