@@ -74,6 +74,7 @@
 * [206. Reverse Linked List](LinkedList/ReverseLinkedList)
 * [146. LRU Cache](LinkedList/LRUCache.md)
 * [21. Merge Two Sorted Lists](LinkedList/MergeTwoSortedLists.md)
+* [2. Add Two Numbers](LinkedList/AddTwoNumbers.md)
 
 ## Recursion
 
