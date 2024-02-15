@@ -37,6 +37,7 @@
 
 * [238. Product of Array Except Self](LeftRight/ProductofArrayExceptSelf.md)
 * [42. Trapping Rain Water](LeftRight/TrappingRainWater.md)
+* [135. Candy](LeftRight/Candy.md)
 
 ## Set
 
@@ -71,7 +72,7 @@
 
 ## Linked List
 
-* [206. Reverse Linked List](LinkedList/ReverseLinkedList)
+* [206. Reverse Linked List](LinkedList/ReverseLinkedList.md)
 * [146. LRU Cache](LinkedList/LRUCache.md)
 * [21. Merge Two Sorted Lists](LinkedList/MergeTwoSortedLists.md)
 * [2. Add Two Numbers](LinkedList/AddTwoNumbers.md)
