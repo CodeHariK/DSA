@@ -33,6 +33,7 @@
 ## Priority Queue
 
 * [347. Top K Frequent Elements](PriorityQueue/TopKFrequentElements.md)
+* [1481. Least Number of Unique Integers after K Removals](PriorityQueue/LeastNumberofUniqueIntegersafterKRemovals.md)
 
 ## Left Right
 
