@@ -9,6 +9,7 @@
 * [1 Two Sum](HashMap/TwoSum.md)
 * [3. Longest Substring Without Repeating Characters](HashMap/LongestSubstringWithoutRepeatingCharacters.md)
 * [149. Max Points on a Line](HashMap/MaxPointsonaLine.md)
+* [138. Copy List with Random Pointer](HashMap/CopyListwithRandomPointer.md)
 
 ## Stack
 
