@@ -55,6 +55,7 @@
 ## Tree
 
 * [226. Invert Binary Tree](Tree/InvertBinaryTree.md)
+* [1448. Count Good Nodes in Binary Tree](Tree/CountGoodNodesinBinaryTree.md)
 
 ## Grid
 
