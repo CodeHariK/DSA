@@ -54,6 +54,7 @@
 
 ## Tree
 
+* [110. Balanced Binary Tree](Tree/BalancedBinaryTree.md)
 * [226. Invert Binary Tree](Tree/InvertBinaryTree.md)
 * [1448. Count Good Nodes in Binary Tree](Tree/CountGoodNodesinBinaryTree.md)
 
