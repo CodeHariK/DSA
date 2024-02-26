@@ -35,6 +35,7 @@
 
 * [875. Koko Eating Bananas](BinarySearch/KokoEatingBananas.md)
 * [74. Search a 2D Matrix](BinarySearch/Searcha2DMatrix.md)
+* [981. Time Based Key-Value Store](BinarySearch/TimeBasedKeyValueStore.md)
 
 ## Priority Queue
 
