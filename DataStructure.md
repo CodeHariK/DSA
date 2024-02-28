@@ -107,3 +107,7 @@
 ## Fast Slow
 
 * [143. Reorder List](FastSlow/ReorderList.md)
+
+## Prime
+
+* [204. Count Primes](Prime/CountPrimes.md)
