@@ -111,3 +111,4 @@
 ## Prime
 
 * [204. Count Primes](Prime/CountPrimes.md)
+* [2523. Closest Prime Numbers in Range](Prime/ClosestPrimeNumbersinRange.md)
