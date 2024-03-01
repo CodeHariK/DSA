@@ -80,6 +80,7 @@
 
 * [424. Longest Repeating Character Replacement](SlidingWindow/LongestRepeatingCharacterReplacement.md)
 * [567. Permutation in String](SlidingWindow/PermutationinString.md)
+* [57. Insert Interval](SlidingWindow/InsertInterval.md)
 
 ## Linked List
 
