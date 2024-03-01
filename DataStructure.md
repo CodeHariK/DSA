@@ -112,3 +112,7 @@
 
 * [204. Count Primes](Prime/CountPrimes.md)
 * [2523. Closest Prime Numbers in Range](Prime/ClosestPrimeNumbersinRange.md)
+
+## Trie
+
+* [208. Implement Trie (Prefix Tree)](Trie/ImplementTrie.md)
