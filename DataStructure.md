@@ -55,8 +55,8 @@
 
 ## Dynamic Programming
 
-* [746. Min Cost Climbing Stairs](DynamicProgramming/MinCostClimbingStairs.md)
 * [70. Climbing Stairs](DynamicProgramming/ClimbingStairs.md)
+* [746. Min Cost Climbing Stairs](DynamicProgramming/MinCostClimbingStairs.md)
 * [198. House Robber](DynamicProgramming/HouseRobber.md)
 
 ## Tree
