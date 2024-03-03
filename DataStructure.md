@@ -118,3 +118,7 @@
 ## Trie
 
 * [208. Implement Trie (Prefix Tree)](Trie/ImplementTrie.md)
+
+## Math
+
+* [202. Happy Number](Math/HappyNumber.md)
