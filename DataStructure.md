@@ -122,3 +122,4 @@
 ## Math
 
 * [202. Happy Number](Math/HappyNumber.md)
+* [48. Rotate Image](Math/RotateImage.md)
