@@ -126,3 +126,4 @@
 * [50. Pow(x, n)](Math/Pow_x_n.md)
 * [2013. Detect Squares](Math/DetectSquares.md)
 * [43. Multiply Strings](Math/MultiplyStrings.md)
+* [54. Spiral Matrix](Math/SpiralMatrix.md)
