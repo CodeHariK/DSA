@@ -134,3 +134,7 @@
 * [2013. Detect Squares](Math/DetectSquares.md)
 * [43. Multiply Strings](Math/MultiplyStrings.md)
 * [54. Spiral Matrix](Math/SpiralMatrix.md)
+
+## Greedy
+
+* [53. Maximum Subarray](Greedy/MaximumSubarray.md)
