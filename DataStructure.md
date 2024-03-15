@@ -65,6 +65,7 @@
 * [226. Invert Binary Tree](Tree/InvertBinaryTree.md)
 * [1448. Count Good Nodes in Binary Tree](Tree/CountGoodNodesinBinaryTree.md)
 * [450. Delete Node in a BST](Tree/DeleteNodeinaBST.md)
+* [297. Serialize and Deserialize Binary Tree](Tree/SerializeandDeserializeBinaryTree.md)
 
 ## Grid
 
