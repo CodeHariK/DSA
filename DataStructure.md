@@ -128,6 +128,10 @@
 
 * [208. Implement Trie (Prefix Tree)](Trie/ImplementTrie.md)
 
+## Prefix
+
+* [525. Contiguous Array](Prefix/ContiguousArray.md)
+
 ## Math
 
 * [202. Happy Number](Math/HappyNumber.md)
