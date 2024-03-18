@@ -83,7 +83,11 @@
 
 * [424. Longest Repeating Character Replacement](SlidingWindow/LongestRepeatingCharacterReplacement.md)
 * [567. Permutation in String](SlidingWindow/PermutationinString.md)
-* [57. Insert Interval](SlidingWindow/InsertInterval.md)
+
+## Interval
+
+* [57. Insert Interval](Interval/InsertInterval.md)
+* [452. Minimum Number of Arrows to Burst Balloons](Interval/MinimumNumberofArrowstoBurstBalloons.md)
 
 ## Linked List
 
