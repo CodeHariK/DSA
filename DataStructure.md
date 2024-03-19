@@ -118,6 +118,7 @@
 
 * [46. Permutations](Backtracking/Permutations)
 * [93. Restore IP Addresses](Backtracking/RestoreIPAddresses)
+* [473. Matchsticks to Square](Backtracking/MatchstickstoSquare)
 
 ## Fast Slow
 
