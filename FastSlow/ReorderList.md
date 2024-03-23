@@ -10,37 +10,24 @@ You may not modify the values in the list's nodes. Only nodes themselves may be 
 
 ```py
 class Solution:
-    def reorderList(self, head: Optional[ListNode]) -> None:
-        if not head or not head.next:
-            return head
+    def reorderList(self, head: ListNode) -> None:
+        if not head:
+            return             
 
         # Step 1: Find the middle of the linked list
-        slow, fast = head, head
-        while fast.next and fast.next.next:
+        slow = fast = head
+        while fast and fast.next:
             slow = slow.next
-            fast = fast.next.next
-
-        # Split the linked list into two halves
-        second_half = slow.next
-        slow.next = None
-
+            fast = fast.next.next 
+            
         # Step 2: Reverse the second half of the linked list
-        prev, curr = None, second_half
+        prev, curr = None, slow
         while curr:
-            temp = curr.next
-            curr.next = prev
-            prev = curr
-            curr = temp
-
-        # prev now points to the head of the reversed second half
+            curr.next, prev, curr = prev, curr, curr.next       
 
         # Step 3: Merge the first half and the reversed second half
         first, second = head, prev
-        while second:
-            temp1, temp2 = first.next, second.next
-            first.next = second
-            second.next = temp1
-            first, second = temp1, temp2
-
-        return head
+        while second.next:
+            first.next, first = second, first.next
+            second.next, second = first, second.next
 ```
