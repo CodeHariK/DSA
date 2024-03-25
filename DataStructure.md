@@ -61,6 +61,8 @@
 
 ## Tree
 
+* [Loser Tree](Tree/LoserTree.md)
+
 * [110. Balanced Binary Tree](Tree/BalancedBinaryTree.md)
 * [226. Invert Binary Tree](Tree/InvertBinaryTree.md)
 * [1448. Count Good Nodes in Binary Tree](Tree/CountGoodNodesinBinaryTree.md)
@@ -156,3 +158,7 @@
 ## Two Pointer
 
 * [234. Palindrome Linked List](TwoPointer/PalindromeLinkedList.md)
+
+## Array
+
+* [442. Find All Duplicates in an Array](Array/FindAllDuplicatesinanArray.md)
