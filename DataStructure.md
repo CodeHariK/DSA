@@ -87,6 +87,7 @@
 * [424. Longest Repeating Character Replacement](SlidingWindow/LongestRepeatingCharacterReplacement.md)
 * [567. Permutation in String](SlidingWindow/PermutationinString.md)
 * [713. Subarray Product Less Than K](SlidingWindow/SubarrayProductLessThanK.md)
+* [2958. Length of Longest Subarray With at Most K Frequency](SlidingWindow/LengthofLongestSubarrayWithatMostKFrequency.md)
 
 ## Interval
 
