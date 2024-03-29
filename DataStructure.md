@@ -88,6 +88,7 @@
 * [567. Permutation in String](SlidingWindow/PermutationinString.md)
 * [713. Subarray Product Less Than K](SlidingWindow/SubarrayProductLessThanK.md)
 * [2958. Length of Longest Subarray With at Most K Frequency](SlidingWindow/LengthofLongestSubarrayWithatMostKFrequency.md)
+* [2962. Count Subarrays Where Max Element Appears at Least K Times](SlidingWindow/CountSubarraysWhereMaxElementAppearsatLeastKTimes.md)
 
 ## Interval
 
@@ -122,9 +123,9 @@
 
 ## Backtracking
 
-* [46. Permutations](Backtracking/Permutations)
-* [93. Restore IP Addresses](Backtracking/RestoreIPAddresses)
-* [473. Matchsticks to Square](Backtracking/MatchstickstoSquare)
+* [46. Permutations](Backtracking/Permutations.md)
+* [93. Restore IP Addresses](Backtracking/RestoreIPAddresses.md)
+* [473. Matchsticks to Square](Backtracking/MatchstickstoSquare.md)
 
 ## Fast Slow
 
