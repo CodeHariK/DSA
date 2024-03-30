@@ -89,6 +89,7 @@
 * [713. Subarray Product Less Than K](SlidingWindow/SubarrayProductLessThanK.md)
 * [2958. Length of Longest Subarray With at Most K Frequency](SlidingWindow/LengthofLongestSubarrayWithatMostKFrequency.md)
 * [2962. Count Subarrays Where Max Element Appears at Least K Times](SlidingWindow/CountSubarraysWhereMaxElementAppearsatLeastKTimes.md)
+* [992. Subarrays with K Different Integers](SlidingWindow/SubarrayswithKDifferentIntegers.md)
 
 ## Interval
 
