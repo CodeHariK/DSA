@@ -37,6 +37,7 @@
 * [74. Search a 2D Matrix](BinarySearch/Searcha2DMatrix.md)
 * [981. Time Based Key-Value Store](BinarySearch/TimeBasedKeyValueStore.md)
 * [153. Find Minimum in Rotated Sorted Array](BinarySearch/FindMinimuminRotatedSortedArray.md)
+* [33. Search in Rotated Sorted Array](BinarySearch/SearchinRotatedSortedArray.md)
 
 ## Priority Queue
 
