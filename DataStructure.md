@@ -128,6 +128,8 @@
 * [46. Permutations](Backtracking/Permutations.md)
 * [93. Restore IP Addresses](Backtracking/RestoreIPAddresses.md)
 * [473. Matchsticks to Square](Backtracking/MatchstickstoSquare.md)
+* [79. Word Search](Backtracking/WordSearch.md)
+
 
 ## Fast Slow
 
