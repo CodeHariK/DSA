@@ -13,6 +13,7 @@
 
 ## Stack
 
+* [1544. Make The String Great](Stack/MakeTheStringGreat.md)
 * [1614. Maximum Nesting Depth of the Parentheses](Stack/MaximumNestingDepthoftheParentheses.md)
 * [20. Valid Parentheses](Stack/ValidParenthesis.md)
 * [155. Min Stack](Stack/MinStack.md)
