@@ -21,6 +21,7 @@
 * [739. Daily Temperatures](Stack/DailyTemperatures.md)
 * [853. Car Fleet](Stack/CarFleet.md)
 * [84. Largest Rectangle in Histogram](Stack/LargestRectangleinHistogram.md)
+* [1249. Minimum Remove to Make Valid Parentheses](Stack/MinimumRemovetoMakeValidParentheses.md)
 
 ## Window Shrink
 
