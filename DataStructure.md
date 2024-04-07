@@ -22,6 +22,7 @@
 * [853. Car Fleet](Stack/CarFleet.md)
 * [84. Largest Rectangle in Histogram](Stack/LargestRectangleinHistogram.md)
 * [1249. Minimum Remove to Make Valid Parentheses](Stack/MinimumRemovetoMakeValidParentheses.md)
+* [678. Valid Parenthesis String](Stack/ValidParenthesisString.md)
 
 ## Window Shrink
 
