@@ -33,6 +33,7 @@
 
 ## Frequency Count
 
+* [2073. Time Needed to Buy Tickets](FrequencyCount/TimeNeededtoBuyTickets.md)
 * [242 Valid Anagram](FrequencyCount/ValidAnagram.md)
 * [49. Group Anagrams](FrequencyCount/GroupAnagram.md)
 
