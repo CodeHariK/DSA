@@ -24,6 +24,7 @@
 * [84. Largest Rectangle in Histogram](Stack/LargestRectangleinHistogram.md)
 * [1249. Minimum Remove to Make Valid Parentheses](Stack/MinimumRemovetoMakeValidParentheses.md)
 * [678. Valid Parenthesis String](Stack/ValidParenthesisString.md)
+* [950. Reveal Cards In Increasing Order](Stack/RevealCardsInIncreasingOrder.md)
 
 ## Window Shrink
 
