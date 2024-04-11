@@ -26,6 +26,10 @@
 * [678. Valid Parenthesis String](Stack/ValidParenthesisString.md)
 * [950. Reveal Cards In Increasing Order](Stack/RevealCardsInIncreasingOrder.md)
 
+## Monotonic Stack
+
+* [402. Remove K Digits](MonotonicStack/RemoveKDigits.md)
+
 ## Window Shrink
 
 * [167 Two Sum2](WindowShrink/TwoSum2.md)
