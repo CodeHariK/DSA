@@ -122,6 +122,7 @@
 ## Recursion
 
 * [22. Generate Parentheses](Recursion/GenerateParentheses.md)
+* [221. Maximal Square](Recursion/MaximalSquare.md)
 * [85. Maximal Rectangle](Recursion/MaximalRectangle.md)
 
 ## Graph
