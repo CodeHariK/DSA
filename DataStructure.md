@@ -132,7 +132,6 @@
 
 ## Graph
 
-* [1971. Find if Path Exists in Graph](Graph/FindifPathExistsinGraph.md)
 * [133. Clone Graph](Graph/CloneGraph.md)
 * [787. Cheapest Flights Within K Stops](Graph/CheapestFlightsWithinKStops.md)
 * [200. Number of Islands](Graph/NumberofIslands.md)
@@ -142,6 +141,11 @@
 * [994. Rotting Oranges](Graph/RottingOranges.md)
 * [207. Course Schedule](Graph/CourseSchedule.md)
 * [210. Course Schedule II](Graph/CourseScheduleII.md)
+
+## BFS
+
+* [1971. Find if Path Exists in Graph](BFS/FindifPathExistsinGraph.md)
+* [752. Open the Lock](BFS/OpentheLock.md)
 
 ## Backtracking
 
