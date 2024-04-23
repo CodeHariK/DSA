@@ -146,6 +146,7 @@
 
 * [1971. Find if Path Exists in Graph](BFS/FindifPathExistsinGraph.md)
 * [752. Open the Lock](BFS/OpentheLock.md)
+* [310. Minimum Height Trees](BFS/MinimumHeightTrees.md)
 
 ## Backtracking
 
