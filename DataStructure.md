@@ -141,6 +141,7 @@
 * [994. Rotting Oranges](Graph/RottingOranges.md)
 * [207. Course Schedule](Graph/CourseSchedule.md)
 * [210. Course Schedule II](Graph/CourseScheduleII.md)
+* [684. Redundant Connection](Graph/RedundantConnection.md)
 
 ## BFS
 
