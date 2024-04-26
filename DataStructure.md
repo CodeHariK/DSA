@@ -92,6 +92,7 @@
 
 * [931. Minimum Falling Path Sum](Grid/MinimumFallingPathSum.md)
 * [1992. Find All Groups of Farmland](Grid/FindAllGroupsofFarmland.md)
+* [1289. Minimum Falling Path Sum II](Grid/MinimumFallingPathSumII.md)
 
 ## Ascii
 
