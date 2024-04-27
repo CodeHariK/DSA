@@ -75,6 +75,7 @@
 * [198. House Robber](DynamicProgramming/HouseRobber.md)
 * [799. Champagne Tower](DynamicProgramming/ChampagneTower.md)
 * [2370. Longest Ideal Subsequence](DynamicProgramming/LongestIdealSubsequence.md)
+* [514. Freedom Trail](DynamicProgramming/FreedomTrail.md)
 
 ## Tree
 
