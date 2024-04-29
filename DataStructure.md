@@ -200,3 +200,7 @@
 ## Array
 
 * [442. Find All Duplicates in an Array](Array/FindAllDuplicatesinanArray.md)
+
+## Bitwise
+
+* [2997. Minimum Number of Operations to Make Array XOR Equal to K](bitwise/MinimumNumberofOperationstoMakeArrayXOREqualtoK.md)
