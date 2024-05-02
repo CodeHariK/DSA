@@ -160,6 +160,7 @@
 * [93. Restore IP Addresses](Backtracking/RestoreIPAddresses.md)
 * [473. Matchsticks to Square](Backtracking/MatchstickstoSquare.md)
 * [79. Word Search](Backtracking/WordSearch.md)
+* [131. Palindrome Partitioning](Backtracking/PalindromePartitioning.md)
 
 ## Fast Slow
 
