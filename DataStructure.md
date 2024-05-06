@@ -122,6 +122,7 @@
 ## Linked List
 
 * [206. Reverse Linked List](LinkedList/ReverseLinkedList.md)
+* [2487. Remove Nodes From Linked List](LinkedList/RemoveNodesFromLinkedList.md)
 * [146. LRU Cache](LinkedList/LRUCache.md)
 * [21. Merge Two Sorted Lists](LinkedList/MergeTwoSortedLists.md)
 * [2. Add Two Numbers](LinkedList/AddTwoNumbers.md)
