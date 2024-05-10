@@ -57,6 +57,7 @@
 * [1481. Least Number of Unique Integers after K Removals](PriorityQueue/LeastNumberofUniqueIntegersafterKRemovals.md)
 * [621. Task Scheduler](PriorityQueue/TaskScheduler.md)
 * [355. Design Twitter](PriorityQueue/DesignTwitter.md)
+* [786. K-th Smallest Prime Fraction](PriorityQueue/K-thSmallestPrimeFraction.md)
 
 ## Left Right
 
