@@ -211,3 +211,4 @@
 
 * [2997. Minimum Number of Operations to Make Array XOR Equal to K](bitwise/MinimumNumberofOperationstoMakeArrayXOREqualtoK.md)
 * [1915. Number of Wonderful Substrings](bitwise/NumberofWonderfulSubstrings.md)
+* [3068. Find the Maximum Sum of Node Values](bitwise/FindtheMaximumSumofNodeValues.md)
