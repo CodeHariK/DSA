@@ -206,6 +206,7 @@
 ## Array
 
 * [442. Find All Duplicates in an Array](Array/FindAllDuplicatesinanArray.md)
+* [78. Subsets](Array/Subsets.md)
 
 ## Bitwise
 
