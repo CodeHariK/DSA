@@ -165,6 +165,7 @@
 * [473. Matchsticks to Square](Backtracking/MatchstickstoSquare.md)
 * [79. Word Search](Backtracking/WordSearch.md)
 * [131. Palindrome Partitioning](Backtracking/PalindromePartitioning.md)
+* [2597. The Number of Beautiful Subsets](Backtracking/TheNumberofBeautifulSubsets.md)
 
 ## Fast Slow
 
