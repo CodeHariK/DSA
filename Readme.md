@@ -106,6 +106,7 @@
 ## Snake
 
 * [121. Best Time to Buy and Sell Stock](Snake/BestTimetoBuyandSellStock.md)
+* [1208. Get Equal Substrings Within Budget](Snake/GetEqualSubstringsWithinBudget.py)
 
 ## Sliding Window
 
