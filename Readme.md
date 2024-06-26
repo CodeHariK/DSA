@@ -85,6 +85,7 @@
 * [Loser Tree](Tree/LoserTree.md)
 
 * [110. Balanced Binary Tree](Tree/BalancedBinaryTree.md)
+* [1382. Balance a Binary Search Tree](Tree/BalanceaBinarySearchTree.md)
 * [226. Invert Binary Tree](Tree/InvertBinaryTree.md)
 * [623. Add One Row to Tree](Tree/AddOneRowtoTree.md)
 * [988. Smallest String Starting From Leaf](Tree/SmallestStringStartingFromLeaf.md)
