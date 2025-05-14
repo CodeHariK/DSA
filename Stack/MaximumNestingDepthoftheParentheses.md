@@ -10,17 +10,3 @@ class Solution:
             if cnt>max:
                 max=cnt
         return max
-
-# class Solution:
-#     def maxDepth(self, s: str) -> int:
-#         c = 0
-#         ss = ""
-#         for i in s:
-#             if i == "(" or i == ")":
-#                 ss += i
-#         while ss != "":
-#             c += 1
-#             ss = ss.replace("()", "")
-
-#         return c
-```

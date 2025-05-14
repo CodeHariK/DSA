@@ -12,3 +12,15 @@ class Solution:
         
         return ''.join(stack)
 ```
+
+```c++
+string n;
+for (char c : s) {
+    if (!n.empty() && abs(n.back() - c) == 32) {
+        n.pop_back();
+    } else {
+        n.push_back(c);
+    }
+}
+return n;
+```

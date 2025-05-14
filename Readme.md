@@ -7,16 +7,19 @@
 ## HashMap
 
 * [1 Two Sum](HashMap/TwoSum.md)
-* [3. Longest Substring Without Repeating Characters](HashMap/LongestSubstringWithoutRepeatingCharacters.md)
-* [149. Max Points on a Line](HashMap/MaxPointsonaLine.md)
-* [138. Copy List with Random Pointer](HashMap/CopyListwithRandomPointer.md)
-* [1700. Number of Students Unable to Eat Lunch](HashMap/NumberofStudentsUnabletoEatLunch.md)
+
+
+
+* [3 {S} Longest Substring Without Repeating Characters](HashMap/LongestSubstringWithoutRepeatingCharacters.md)
+* [149 Max Points on a Line](HashMap/MaxPointsonaLine.md)
+* [138 Copy List with Random Pointer](HashMap/CopyListwithRandomPointer.md)
+* [1700 Number of Students Unable to Eat Lunch](HashMap/NumberofStudentsUnabletoEatLunch.md)
 
 ## Stack
 
-* [1544. Make The String Great](Stack/MakeTheStringGreat.md)
-* [1614. Maximum Nesting Depth of the Parentheses](Stack/MaximumNestingDepthoftheParentheses.md)
-* [20. Valid Parentheses](Stack/ValidParenthesis.md)
+* [1544 {S} Make The String Great](Stack/MakeTheStringGreat.md)
+* [1614 {S} Maximum Nesting Depth of the Parentheses](Stack/MaximumNestingDepthoftheParentheses.md)
+* [20 {S} Valid Parentheses](Stack/ValidParenthesis.md)
 * [155. Min Stack](Stack/MinStack.md)
 * [150. Evaluate Reverse Polish Notation](Stack/EvaluateReversePolishNotation.md)
 * [739. Daily Temperatures](Stack/DailyTemperatures.md)
@@ -52,8 +55,9 @@
 
 ## Priority Queue
 
-* [1046. Last Stone Weight](PriorityQueue/LastStoneWeight.md)
 * [347. Top K Frequent Elements](PriorityQueue/TopKFrequentElements.md)
+
+* [1046. Last Stone Weight](PriorityQueue/LastStoneWeight.md)
 * [1481. Least Number of Unique Integers after K Removals](PriorityQueue/LeastNumberofUniqueIntegersafterKRemovals.md)
 * [621. Task Scheduler](PriorityQueue/TaskScheduler.md)
 * [355. Design Twitter](PriorityQueue/DesignTwitter.md)
@@ -61,20 +65,22 @@
 
 ## Left Right
 
-* [238. Product of Array Except Self](LeftRight/ProductofArrayExceptSelf.md)
 * [42. Trapping Rain Water](LeftRight/TrappingRainWater.md)
 * [135. Candy](LeftRight/Candy.md)
 
 ## Set
 
-* [36. Valid Sudoku](Set/ValidSudoku.md)
 * [128. Longest Consecutive Sequence](Set/LongestConsecutiveSequence.md)
+
+* [36. Valid Sudoku](Set/ValidSudoku.md)
 
 ## Dynamic Programming
 
 * [70. Climbing Stairs](DynamicProgramming/ClimbingStairs.md)
 * [746. Min Cost Climbing Stairs](DynamicProgramming/MinCostClimbingStairs.md)
 * [198. House Robber](DynamicProgramming/HouseRobber.md)
+
+
 * [799. Champagne Tower](DynamicProgramming/ChampagneTower.md)
 * [2370. Longest Ideal Subsequence](DynamicProgramming/LongestIdealSubsequence.md)
 * [514. Freedom Trail](DynamicProgramming/FreedomTrail.md)
